@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_checker_app_adaptive_back.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_checker_app_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\font_alataregular.ttf.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\font\\alataregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_checker_app_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_checker_app_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_notes_24.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_notes_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_checker_app.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_checker_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_checker_app_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_checker_app_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_checker_app.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_checker_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_checker_app_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_checker_app_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\layout_data_layout.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\layout\\data_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_checker_app.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_checker_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_checker_app_adaptive_back.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_checker_app_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_checker_app.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_checker_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_checker_app_adaptive_back.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_checker_app_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_checker_app_adaptive_back.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_checker_app_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_checker_app_adaptive_back.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_checker_app_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_checker_app_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_checker_app_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_notes_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_notes_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_videogame_asset_24.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_videogame_asset_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_checker_app_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_checker_app_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_videogame_asset_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_videogame_asset_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_checker_app.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_checker_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_checker_app.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_checker_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_check_circle_outline_24.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_check_circle_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gazi\\AndroidStudioProjects\\PalindromeChecker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
