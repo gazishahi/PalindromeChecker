@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="checker">Checker</string>
+    <string name="game">Game</string>
+    <string name="entries">Entries</string>
+    <string name="enter_a_word_or_sentence">Enter a word or sentence</string>
+    <string name="check">Check</string>
+    <string name="waiting">Waiting…</string>
+    <string name="minsdk_17">minSdk 17</string>
+    <string name="guess_the_palindrome">Guess the Palindrome!</string>
+    <string name="guess">Guess!</string>
+    <string name="has_t_c">Has T, C</string>
+    <string name="_7_letters">7 Letters</string>
+    <string name="hints">Hints:</string>
+    <string name="empty">empty</string>
+    <string name="enter_a_word">Enter a word</string>
+    <string name="palindrome">Palindrome!</string>
+    <string name="not_palindrome">Not a Palindrome</string>
+    <string name="next">Next</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong. Try again!</string>
+    <string name="no_more_tries">The correct answer is:</string>
+    <string name="check_palindrome">Check for Palindrome</string>
+    <string name="serialize">Serialize</string>
+    <string name="clear">Clear All</string>
+    <string name="Update">Update</string>
+    <string name="enter_file_name">Enter XML File Name</string>
+</resources>
